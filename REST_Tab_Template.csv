@@ -1,0 +1,7 @@
+API Name,API Description,API Type,External Facing,API Access Level,API Description URL,Endpoint URL,Parent API
+Example API,This is an example REST API for demonstration purposes,Service,T,Public,https://va.gov/api/example,https://api.va.gov/v1/example,
+Benefits Claims API,API for managing veteran benefits claims,Application,T,Restricted Public,https://va.gov/api/benefits-claims,https://api.va.gov/v1/claims,
+Veteran Status API,API to verify veteran status,Service,T,Public,https://va.gov/api/veteran-status,https://api.va.gov/v1/veteran-status,
+Health Records API,API for accessing veteran health records,Application,F,Private,https://va.gov/api/health-records,https://api.va.gov/v1/health-records,Benefits Portal
+Payment Processing API,API for processing veteran payments,Service,F,Private,https://va.gov/api/payments,https://api.va.gov/v1/payments,Financial Systems
+Education Benefits API,API for education benefit information,Application,T,Restricted Public,https://va.gov/api/education,https://api.va.gov/v1/education,
